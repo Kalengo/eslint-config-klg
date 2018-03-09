@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-klg",
+  "version": "1.0.2",
+  "description": "klg eslint standard",
+  "main": "index.js",
+  "author": "nick",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaolalicai/eslint-config-klg.git"
+  }
+}
