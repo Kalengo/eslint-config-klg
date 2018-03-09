@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-klg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "klg eslint standard",
   "main": "index.js",
   "author": "nick",
