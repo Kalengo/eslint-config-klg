@@ -1,11 +1,11 @@
 {
   "name": "eslint-config-klg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "klg eslint standard",
   "main": "index.js",
   "author": "nick",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-standard": "^3.0.1"
   },
