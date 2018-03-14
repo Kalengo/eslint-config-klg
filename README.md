@@ -21,7 +21,7 @@
 安装配置包
 
 ```bash
-npm install --save-dev eslint-config-klg
+npm install --save-dev eslint-config-klg eslint-config-standard
 ```
 
 因为 eslint 的插件独立于 config 之外的设计，你还必须手动安装以下插件
